@@ -73,18 +73,30 @@
     <string name="block_description">Tüm gelen aramaları engelle. Rehberdeki numaraları da engellemek için izin vermeniz gerekir.</string>
     <string name="repeated_burst_timeout_hint">Zaman aşımı</string>
     <string name="repeated_burst_timeout_helper_text">Tekrarlanan aramalar arasında saniye cinsinden asgari zaman aşımı.</string>
-    <string name="regex_pattern_allow_hint">Desen</string>
+    <string name="regex_pattern_allow_hint">İzin Verilen İfadeler</string>
     <string name="regex_pattern_error">Geçersiz düzenli ifade!</string>
     <string name="regex_main">Düzenli ifade</string>
-    <string name="regex_pattern_allow_helper_text">Düzenli ifadeyle eşleşen numaralardan gelen aramaları engelle.</string>
+    <string name="regex_pattern_allow_helper_text">Noktalı virgülle ayrılan düzenli ifadelerle eşleşen numaralardan gelen aramalara izin ver.</string>
     <string name="contacted_call_in">Yanıtla</string>
     <string name="contacted_call_in_description">Daha önce yanıtladığınız numaralardan gelen aramalara izin ver.</string>
     <string name="extra_description">Bazı çeşitli gruplardan/tanımlayıcılardan gelen aramalara izin ver.</string>
-    <string name="sim_description">Bir veya her iki SIM karttan gelen tüm aramalara izin verin.</string>
+    <string name="sim_description">Bir veya her iki SIM karttan gelen tüm aramaları değerlendir.</string>
     <string name="activate_app">Kapalı</string>
     <string name="back">Geri</string>
     <string name="deactivate_app">Açık</string>
     <!-- App Shortcuts -->
     <string name="shortcut_activate_block">Arama engellemeyi etkinleştir</string>
     <string name="shortcut_deactivate_block">Arama engellemeyi devre dışı bırak</string>
+    <string name="regex_description">Düzenli ifadelerle eşleşen numaralardan gelen aramaları değerlendir.</string>
+    <string name="regex_pattern_block_hint">Engellenen İfadeler</string>
+    <string name="regex_pattern_block_helper_text">Noktalı virgülle ayrılan düzenli ifadelerle eşleşen numaralardan gelen aramaları engelle.</string>
+    <string name="messages_sms">SMS</string>
+    <string name="messages_sms_description">Gelen mesajlarda bulunan cep telefonu numaralarından gelen aramalara geçici olarak izin ver.</string>
+    <string name="sim_1_block_description">SIM 1\'den gelen tüm aramaları engelle.</string>
+    <string name="sim_2_block_description">SIM 2\'den gelen tüm aramaları engelle.</string>
+    <string name="block">Engelle</string>
+    <string name="block_enabled">Engelleme modu etkin</string>
+    <string name="block_disabled">Engelleme modu devre dışı</string>
+    <string name="shortcut_activate">Silence\'ı etkinleştir</string>
+    <string name="shortcut_deactivate">Silence\'ı devre dışı bırak</string>
 </resources>
